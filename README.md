@@ -1,4 +1,4 @@
-# Curso JPA e Hibernate além do básico - um projeto completo
+# Curso JPA e Hibernate além do básico - Algaworks
 
 - [1. Introdução](#parte1)   
 - [2. Iniciando com JPA 2](#parte2)   
