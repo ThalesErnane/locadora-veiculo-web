@@ -17,3 +17,16 @@ Curso de JPA e Hibernate além do basico - Algaworks
 
 
 ![CadastroMotorista](src/Imagens/CadastroMotorista.PNG)
+
+
+![PesquisarFabricante](src/Imagens/PesquisarFabricante.PNG)
+
+![PesquisarModeloCarro](src/Imagens/PesquisarModeloCarro.PNG)
+
+![PesquisarAcessorios](src/Imagens/PesquisarAcessorios.PNG)
+
+![PesquisarCarros](src/Imagens/PesquisarCarros.PNG)
+
+![PesquisarMotorista](src/Imagens/PesquisarMotorista.PNG)
+
+![Relatorios](src/Imagens/Relatorios.PNG)
