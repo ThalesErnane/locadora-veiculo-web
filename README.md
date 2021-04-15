@@ -1,4 +1,4 @@
-# Curso JPA e Hibernate além do básico - Algaworks
+# Curso de JPA e Hibernate além do basico - Algaworks
 
 - [1. Introdução](#parte1)   
 - [2. Iniciando com JPA 2](#parte2)   
@@ -11,8 +11,6 @@
 - [9. Gravação e exclusão em cascata](#parte9)   
 - [10. Conceitos e mapeamentos avançados - parte 2](#parte10)   
 - [11. Outros detalhes importantes](#parte11)   
-
-# Curso de JPA e Hibernate além do basico - Algaworks
 
 ### Tela Inicial 
 ![HomeCadastros](src/Imagens/HomeCadastros.PNG)
