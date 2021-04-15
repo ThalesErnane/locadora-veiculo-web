@@ -12,9 +12,7 @@
 - [10. Conceitos e mapeamentos avançados - parte 2](#parte10)   
 - [11. Outros detalhes importantes](#parte11)   
 
-
-# locadora-veiculo-web
-Curso de JPA e Hibernate além do basico - Algaworks
+# Curso de JPA e Hibernate além do basico - Algaworks
 
 ### Tela Inicial 
 ![HomeCadastros](src/Imagens/HomeCadastros.PNG)
